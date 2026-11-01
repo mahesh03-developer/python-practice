@@ -1,2 +1,3 @@
 # python-practice
-casino game using python
+casino game using python. python practice program
+
